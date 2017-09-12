@@ -5,4 +5,4 @@ title: About Me
 
 
 
-My Portfolio live at : (http://thefrontrunner.me/MyPortfolio/).
+Visit my portfolio website at : [http://thefrontrunner.me/MyPortfolio/](http://thefrontrunner.me/MyPortfolio/).
