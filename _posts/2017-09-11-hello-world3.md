@@ -1,7 +1,13 @@
 ---
-title: Google Enforces Background Task Limits for Apps with Android Oreo.
+title: What is SSH & How does it work ?
 ---
 
 
-![Emerald](img/Emerald01.png "Emerald")
-Every year, without fail, both Apple and Google declare that the latest version of their operating system contains additional improvements that will save battery life and improve performance. In reality, these gains tend to be application or task-specific, which is to say that some users, in some cases, can see improved battery life. With Android Oreo, however, Google is making a concerted effort to crack down on developer practices that dramatically reduce performance and whack battery life even in standby mode.
+![Emerald](img/SSH.png "Emerald")
+SSH (also referred to as Secure Shell) is a network protocol for securing data that flows between a client and server over a network. The SSH protocol  is a method for secure remote login from one computer to another. Whenever a client connects to a server, it needs to be verified so that the connection made is secure.
+
+This secured connection is established on the basis of a cryptographic key (SSH key). The connection is established by the SSH client connecting to the SSH server. The main use of key-based authentication is to enable secure automation.
+
+Once a connection has been established between the SSH client and server, the data that is transmitted is encrypted according to the parameters negotiated in the setup.
+
+One immediate advantage this method has over traditional password authentication is that you can be authenticated by the server without ever having to send your password over the network
